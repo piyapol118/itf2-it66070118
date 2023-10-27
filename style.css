@@ -21,7 +21,11 @@ body {
 
 .on-hover {
     text-decoration: none;
-    color: rgb(17, 0, 255);
+    color: black;
+}
+
+.on-hover:hover{
+    color: blue;
 }
 
 .image-container {
